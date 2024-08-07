@@ -17,19 +17,19 @@ Ensure you have the following installed on your machine:
    ```
 2. **API KEY Creation Request**
 
-   -Log in to the TMDB [TMDB Website](https://www.themoviedb.org/)
-   -Click on Request for API key to get your own api key on [Api Page](https://www.themoviedb.org/settings/api)
-   -Copy the API key displayed on the screen.
+   - Log in to the TMDB [TMDB Website](https://www.themoviedb.org/)
+   - Click on Request for API key to get your own api key on [Api Page](https://www.themoviedb.org/settings/api)
+   - Copy the API key displayed on the screen.
    ![ApiKeyHelp](./public/ReadmeHelpFiles/API%20KEY.jpg)
 
 3. **Configure API Key**
 
    **_ option 1 _**
 
-   -Navigate to public/config_token.js in your project directory.
-   -Paste the API key into the variable token inside the single quotation marks.
-   ![apiKeyHelp](./public/ReadmeHelpFiles/API%20Token.png)
-   -Save the file.
+   - Navigate to public/config_token.js in your project directory.
+   - Paste the API key into the variable token inside the single quotation marks.
+   - ![apiKeyHelp](./public/ReadmeHelpFiles/API%20Token.png)
+   - Save the file.
 
    **_ option 2 _**
 
