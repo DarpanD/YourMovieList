@@ -12,13 +12,13 @@ Ensure you have the following installed on your machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/DarpanD/YourMovieList.git
    cd YourMovieList
    ```
 2. **API KEY Creation Request**
 
-   -Log in to the TMDB ![TMDB Website](https://www.themoviedb.org/).
-   -Click on Request for API key to get your own api key on ![Api Page](https://www.themoviedb.org/settings/api)
+   -Log in to the TMDB [TMDB Website](https://www.themoviedb.org/).
+   -Click on Request for API key to get your own api key on [Api Page](https://www.themoviedb.org/settings/api)
    -Copy the API key displayed on the screen.
    ![ApiKeyHelp](./public/ReadmeHelpFiles/API%20KEY.jpg)
 
